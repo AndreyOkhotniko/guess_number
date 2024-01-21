@@ -13,5 +13,8 @@ while True:
     elif guess==number:
 
         break
-
+#
+    #
+    #
+    #
 print('отличная интуиция вы угадали')
