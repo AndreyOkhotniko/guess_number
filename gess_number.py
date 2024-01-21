@@ -8,9 +8,9 @@ while True:
 
     if guess<number:
         print('Ваше число меньше')
-    if guess>number:
+    elif guess>number:
         print('Ваше число больше')
-    if guess==number:
+    elif guess==number:
 
         break
 
